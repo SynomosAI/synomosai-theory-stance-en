@@ -1,0 +1,20 @@
+# synomosai-theory-stance-en
+
+> English-facing theory-stance document of SynomosAI's four-pillar Human-AI Governance: AI Passport Regime, XCGS Governance System, A³ Law, and AI-world Coinhabitation. Includes a self-contained panorama HTML.
+
+A content-only repo (Markdown + static HTML). It states the theoretical stance for international readers and English LLM indexing; it runs no checks.
+
+## Core
+
+- [gov_four-pillars_en_v0.1-theory-stance.md](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/gov_four-pillars_en_v0.1-theory-stance.md): four-pillar theory stance (English, v0.1)
+- [gov_panorama_en_v0.1-theory-stance.html](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/gov_panorama_en_v0.1-theory-stance.html): interactive panorama
+- [README.md](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/README.md): bilingual overview
+- [LICENSE](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/LICENSE): MIT
+
+## Optional
+
+- [itu-review-rules.md](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/itu-review-rules.md): ITU review rules
+- [AGENTS.md](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/AGENTS.md): guidance for AI agents
+- [llms-full.txt](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/llms-full.txt): full text
+- [SECURITY.md](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/SECURITY.md): security policy
+- [CODEOWNERS](https://github.com/SynomosAI/synomosai-theory-stance-en/blob/main/CODEOWNERS): content owners
