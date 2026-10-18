@@ -1,0 +1,42 @@
+# synomosai-theory-stance-en — 完整文本 / Full text
+
+本文件为 llms.txt 标准的「完整版」，供长上下文模型一次性读取本仓库的完整说明。
+
+## 这是什么
+
+`synomosai-theory-stance-en` 是 SynomosAI 四支柱世界观的**英文版理论站位仓**。核心资产是英文 Markdown `gov_four-pillars_en_v0.1-theory-stance.md` 与自包含全景 HTML `gov_panorama_en_v0.1-theory-stance.html`。它把公司 guiding philosophy 抽象、翻译为英文，面向国际读者与英文 LLM 索引。
+
+一句话：当 AI 进入商业，可信是唯一的硬通货；本仓用英文陈述四支柱——身份（AI Passport）· 溯源（XCGS）· 治理（A³ Law）· 共生（Coinhabitation）。
+
+## 四支柱（英文版）
+
+1. **AI Passport Regime**：每个 AI / agent / skill 携带可溯源身份码；对标 GB/Z 185—2026 智能体身份码。
+2. **XCGS Governance System**：治理不是 PPT，而是可审计证据链；对标 ISO/IEC 42001、NIST AI RMF 1.2、OWASP Agentic Top 10。
+3. **A³ Law**：AI 造 AI 须过三道门（触发阈值→事前评估→事后复核）；对标现代化阿西莫夫三定律、Anthropic RSP v3.0。
+4. **AI-world Coinhabitation**：共生而非替代，「智能为人，不让任何人掉队」。
+
+## 快速开始
+
+```bash
+git clone --depth 1 https://github.com/SynomosAI/synomosai-theory-stance-en.git
+cd synomosai-theory-stance-en
+cat gov_four-pillars_en_v0.1-theory-stance.md
+open gov_panorama_en_v0.1-theory-stance.html
+```
+
+## 触发词
+
+four pillars / AI governance / AI passport / XCGS / A³ law / coinhabitation / agent identity / ISO 42001 / NIST AI RMF / theory stance / 四支柱 / 理论站位。
+
+## 许可与权利
+
+MIT 许可。Copyright (c) 2026 SynomosAI。完整条款见 `LICENSE`。
+
+## 边界
+
+本仓只陈述立场，不执行检查；内容为公司 guiding philosophy 的抽象与翻译，不引入源材料之外的新主张。外部标准为公开资料转述，正式引用前请独立核实。
+
+## 链接
+
+- 仓库: https://github.com/SynomosAI/synomosai-theory-stance-en
+- 中文公司远景: https://github.com/SynomosAI/synomosai-company-vision
